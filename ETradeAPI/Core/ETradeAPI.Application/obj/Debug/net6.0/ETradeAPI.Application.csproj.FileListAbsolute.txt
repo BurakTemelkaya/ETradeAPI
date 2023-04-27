@@ -1,0 +1,15 @@
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\bin\Debug\net6.0\ETradeAPI.Application.deps.json
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\bin\Debug\net6.0\ETradeAPI.Application.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\bin\Debug\net6.0\ETradeAPI.Application.pdb
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\bin\Debug\net6.0\ETradeAPI.Domain.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\bin\Debug\net6.0\ETradeAPI.Domain.pdb
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\ETradeAPI.Application.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\ETradeAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\ETradeAPI.Application.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\ETradeAPI.Application.AssemblyInfo.cs
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\ETradeAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\ETradeAPI.Application.csproj.CopyComplete
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\ETradeAPI.Application.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\refint\ETradeAPI.Application.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\ETradeAPI.Application.pdb
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Application\obj\Debug\net6.0\ref\ETradeAPI.Application.dll

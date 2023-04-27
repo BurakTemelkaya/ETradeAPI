@@ -1,0 +1,17 @@
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\bin\Debug\net6.0\ETradeAPI.Infrastructure.deps.json
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\bin\Debug\net6.0\ETradeAPI.Infrastructure.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\bin\Debug\net6.0\ETradeAPI.Infrastructure.pdb
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\bin\Debug\net6.0\ETradeAPI.Application.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\bin\Debug\net6.0\ETradeAPI.Domain.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\bin\Debug\net6.0\ETradeAPI.Application.pdb
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\bin\Debug\net6.0\ETradeAPI.Domain.pdb
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\ETradeAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\ETradeAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\ETradeAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\ETradeAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\ETradeAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\ETradeAPI.Infrastructure.csproj.CopyComplete
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\ETradeAPI.Infrastructure.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\refint\ETradeAPI.Infrastructure.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\ETradeAPI.Infrastructure.pdb
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Infrastructure\ETradeAPI.Infrastructure\obj\Debug\net6.0\ref\ETradeAPI.Infrastructure.dll

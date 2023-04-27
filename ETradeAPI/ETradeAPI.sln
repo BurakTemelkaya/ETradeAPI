@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{DCF4CEF9-4502-41FE-B95B-93C4671C61DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETradeAPI.Domain", "Core\ETradeAPI.Domain\ETradeAPI.Domain.csproj", "{77DEFB85-82DA-4482-86ED-9B5129CC5720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETradeAPI.Application", "Core\ETradeAPI.Application\ETradeAPI.Application.csproj", "{FBB5C4CA-7C7A-4DB0-8B3F-1E2542D7228B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{21FAE6B6-39A0-42B0-B013-9027B0767767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETradeAPI.Infrastructure", "Infrastructure\ETradeAPI.Infrastructure\ETradeAPI.Infrastructure.csproj", "{9E3B5738-0160-4153-B3A9-6EDBC9B46E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETradeAPI.Persistence", "Infrastructure\ETradeAPI.Persistence\ETradeAPI.Persistence.csproj", "{30E14ED7-91B7-407E-9A51-16C58CD8F8EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{8B8B8D53-5003-4F76-9101-89A5C370CC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETradeAPI.API", "Presentation\ETradeAPI.API\ETradeAPI.API.csproj", "{EFD9FA34-F4B1-4146-BF3B-958A60225EA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77DEFB85-82DA-4482-86ED-9B5129CC5720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DEFB85-82DA-4482-86ED-9B5129CC5720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DEFB85-82DA-4482-86ED-9B5129CC5720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DEFB85-82DA-4482-86ED-9B5129CC5720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBB5C4CA-7C7A-4DB0-8B3F-1E2542D7228B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBB5C4CA-7C7A-4DB0-8B3F-1E2542D7228B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBB5C4CA-7C7A-4DB0-8B3F-1E2542D7228B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBB5C4CA-7C7A-4DB0-8B3F-1E2542D7228B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3B5738-0160-4153-B3A9-6EDBC9B46E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3B5738-0160-4153-B3A9-6EDBC9B46E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3B5738-0160-4153-B3A9-6EDBC9B46E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3B5738-0160-4153-B3A9-6EDBC9B46E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E14ED7-91B7-407E-9A51-16C58CD8F8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E14ED7-91B7-407E-9A51-16C58CD8F8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E14ED7-91B7-407E-9A51-16C58CD8F8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E14ED7-91B7-407E-9A51-16C58CD8F8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD9FA34-F4B1-4146-BF3B-958A60225EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD9FA34-F4B1-4146-BF3B-958A60225EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD9FA34-F4B1-4146-BF3B-958A60225EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD9FA34-F4B1-4146-BF3B-958A60225EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77DEFB85-82DA-4482-86ED-9B5129CC5720} = {DCF4CEF9-4502-41FE-B95B-93C4671C61DF}
+		{FBB5C4CA-7C7A-4DB0-8B3F-1E2542D7228B} = {DCF4CEF9-4502-41FE-B95B-93C4671C61DF}
+		{9E3B5738-0160-4153-B3A9-6EDBC9B46E89} = {21FAE6B6-39A0-42B0-B013-9027B0767767}
+		{30E14ED7-91B7-407E-9A51-16C58CD8F8EA} = {21FAE6B6-39A0-42B0-B013-9027B0767767}
+		{EFD9FA34-F4B1-4146-BF3B-958A60225EA7} = {8B8B8D53-5003-4F76-9101-89A5C370CC71}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F99C1E08-1450-430D-B988-6EF74F6C6994}
+	EndGlobalSection
+EndGlobal

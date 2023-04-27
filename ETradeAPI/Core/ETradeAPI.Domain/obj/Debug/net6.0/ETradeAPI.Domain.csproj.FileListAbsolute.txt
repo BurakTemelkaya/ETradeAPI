@@ -1,0 +1,12 @@
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\bin\Debug\net6.0\ETradeAPI.Domain.deps.json
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\bin\Debug\net6.0\ETradeAPI.Domain.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\bin\Debug\net6.0\ETradeAPI.Domain.pdb
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\obj\Debug\net6.0\ETradeAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\obj\Debug\net6.0\ETradeAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\obj\Debug\net6.0\ETradeAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\obj\Debug\net6.0\ETradeAPI.Domain.AssemblyInfo.cs
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\obj\Debug\net6.0\ETradeAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\obj\Debug\net6.0\ETradeAPI.Domain.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\obj\Debug\net6.0\refint\ETradeAPI.Domain.dll
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\obj\Debug\net6.0\ETradeAPI.Domain.pdb
+C:\Users\burak\source\repos\BurakTemelkaya\ETradeApplication\ETradeAPI\Core\ETradeAPI.Domain\obj\Debug\net6.0\ref\ETradeAPI.Domain.dll

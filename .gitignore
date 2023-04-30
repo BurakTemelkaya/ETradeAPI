@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ETradeAPI/DesignTimeBuild
+/.vs/ETradeAPI/FileContentIndex
+/.vs/ETradeAPI/v17
+/.vs/ProjectEvaluation
+/Core/ETradeAPI.Application/bin/Debug/net6.0
+/Infrastructure/ETradeAPI.Infrastructure/bin/Debug/net6.0
+/Infrastructure/ETradeAPI.Infrastructure/obj/Debug/net6.0/refint
+/Infrastructure/ETradeAPI.Infrastructure/obj/Debug/net6.0
+/Infrastructure/ETradeAPI.Infrastructure/obj
+/Infrastructure/ETradeAPI.Persistence/bin/Debug/net6.0
+/Infrastructure/ETradeAPI.Persistence/obj/Debug/net6.0
+/Infrastructure/ETradeAPI.Persistence/obj
+/obj/Debug/net6.0
+/obj
+/Presentation/ETradeAPI.API/bin/Debug/net6.0
+/Presentation/ETradeAPI.API/obj/Debug/net6.0
+/Presentation/ETradeAPI.API/obj

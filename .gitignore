@@ -19,3 +19,7 @@
 /Presentation/ETradeAPI.API/bin/Debug/net6.0
 /Presentation/ETradeAPI.API/obj/Debug/net6.0
 /Presentation/ETradeAPI.API/obj
+/Core/ETradeAPI.Application/obj
+/Core/ETradeAPI.Domain/bin/Debug/net6.0
+/Core/ETradeAPI.Domain/obj/Debug/net6.0
+/Core/ETradeAPI.Domain/obj

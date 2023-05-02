@@ -15,7 +15,7 @@ namespace ETradeAPI.Application.Repositories
 
         bool Remove(T datas);
 
-        Task<bool> Remove(string id);
+        Task<bool> RemoveAsync(string id);
 
         bool RemoveRange(List<T> datas);
 

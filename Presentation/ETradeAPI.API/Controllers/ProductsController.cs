@@ -1,4 +1,5 @@
 ﻿using ETradeAPI.Application.Repositories;
+using ETradeAPI.Application.RequestParameters;
 using ETradeAPI.Application.ViewModels.Products;
 using ETradeAPI.Domain.Entites;
 using Microsoft.AspNetCore.Http;
@@ -23,9 +24,26 @@ namespace ETradeAPI.API.Controllers
 
 
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult Get([FromQuery] Pagination pagination)
         {
-            return Ok(_productReadRepository.GetAll(false));
+            var totalCount = _productReadRepository.GetAll(false).Count();
+            var products = _productReadRepository.GetAll(false).Select(p => new
+            {
+                p.Id,
+                p.Name,
+                p.Stock,
+                p.Price,
+                p.CreatedDate,
+                p.UpdatedDate
+            })
+                .Skip(pagination.Page * pagination.Size)
+                .Take(pagination.Size);
+
+            return Ok(new
+            {
+                totalCount,
+                products
+            });
         }
 
         [HttpGet("{id}")]
